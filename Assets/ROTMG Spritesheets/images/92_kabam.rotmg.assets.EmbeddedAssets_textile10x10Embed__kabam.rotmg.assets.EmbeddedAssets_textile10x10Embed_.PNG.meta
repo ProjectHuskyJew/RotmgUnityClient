@@ -1,0 +1,675 @@
+fileFormatVersion: 2
+guid: d7ba94fb5db5b0b41b77341e2873869f
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: 92_kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed_
+    21300002: 92_kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__0
+    21300004: 92_kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__1
+    21300006: 92_kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__2
+    21300008: 92_kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__3
+    21300010: 92_kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__4
+    21300012: 92_kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__5
+    21300014: 92_kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__6
+    21300016: 92_kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__7
+    21300018: 92_kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__8
+    21300020: 92_kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__9
+    21300022: 92_kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__10
+    21300024: 92_kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__11
+    21300026: 92_kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__12
+    21300028: 92_kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__13
+    21300030: 92_kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__14
+    21300032: 92_kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__15
+    21300034: 92_kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__16
+    21300036: 92_kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__17
+    21300038: 92_kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__18
+    21300040: 92_kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__19
+    21300042: 92_kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__20
+    21300044: 92_kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__21
+    21300046: 92_kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__22
+    21300048: 92_kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__23
+    21300050: 92_kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__24
+    21300052: 92_kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__25
+    21300054: 92_kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__26
+    21300056: 92_kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__27
+    21300058: 92_kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__28
+    21300060: 92_kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__29
+    21300062: 92_kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__30
+    21300064: 92_kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__31
+    21300066: 92_kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__32
+    21300068: 92_kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__33
+    21300070: 92_kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__34
+    21300072: 92_kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__35
+    21300074: 92_kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__36
+    21300076: 92_kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__37
+    21300078: 92_kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__38
+    21300080: 92_kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__39
+    21300082: 92_kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__40
+    21300084: 92_kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__41
+    21300086: 92_kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__42
+    21300088: 92_kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__43
+    21300090: 92_kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__44
+    21300092: 92_kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__45
+    21300094: 92_kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__46
+    21300096: 92_kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__47
+    21300098: 92_kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__48
+    21300100: 92_kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__49
+    21300102: 92_kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__50
+    21300104: 92_kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__51
+    21300106: 92_kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__52
+    21300108: 92_kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__53
+    21300110: 92_kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__54
+    21300112: 92_kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__55
+    21300114: 92_kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__56
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 50
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: 92_kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 150
+        width: 10
+        height: 10
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 92_kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__1
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 150
+        width: 10
+        height: 10
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 92_kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__2
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 150
+        width: 10
+        height: 10
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 92_kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__3
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 150
+        width: 10
+        height: 10
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 92_kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__4
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 150
+        width: 10
+        height: 10
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 92_kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__5
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 150
+        width: 10
+        height: 10
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 92_kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__6
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 150
+        width: 10
+        height: 10
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 92_kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__7
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 150
+        width: 10
+        height: 10
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 92_kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__8
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 150
+        width: 10
+        height: 10
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 92_kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__9
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 150
+        width: 10
+        height: 10
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 92_kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__10
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 150
+        width: 10
+        height: 10
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 92_kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__11
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 150
+        width: 10
+        height: 10
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 92_kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__12
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 150
+        width: 10
+        height: 10
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 92_kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__13
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 150
+        width: 10
+        height: 10
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 92_kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__14
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 150
+        width: 10
+        height: 10
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 92_kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__15
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 150
+        width: 10
+        height: 10
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 92_kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 140
+        width: 10
+        height: 10
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 92_kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__17
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 140
+        width: 10
+        height: 10
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 92_kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__18
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 140
+        width: 10
+        height: 10
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 92_kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__19
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 140
+        width: 10
+        height: 10
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 92_kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__20
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 140
+        width: 10
+        height: 10
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 92_kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__21
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 140
+        width: 10
+        height: 10
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 92_kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__22
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 140
+        width: 10
+        height: 10
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 92_kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__23
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 140
+        width: 10
+        height: 10
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 92_kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__24
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 140
+        width: 10
+        height: 10
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 92_kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__25
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 140
+        width: 10
+        height: 10
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 92_kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__26
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 140
+        width: 10
+        height: 10
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 92_kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__27
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 140
+        width: 10
+        height: 10
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 92_kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__28
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 140
+        width: 10
+        height: 10
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 92_kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__29
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 140
+        width: 10
+        height: 10
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 92_kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__30
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 140
+        width: 10
+        height: 10
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 92_kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__31
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 140
+        width: 10
+        height: 10
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 92_kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 130
+        width: 10
+        height: 10
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 92_kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__33
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 130
+        width: 10
+        height: 10
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 92_kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__34
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 130
+        width: 10
+        height: 10
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 92_kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__35
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 130
+        width: 10
+        height: 10
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 92_kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__36
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 130
+        width: 10
+        height: 10
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 92_kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__37
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 130
+        width: 10
+        height: 10
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 92_kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__38
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 130
+        width: 10
+        height: 10
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 92_kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__39
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 130
+        width: 10
+        height: 10
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 92_kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__40
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 130
+        width: 10
+        height: 10
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 92_kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__41
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 130
+        width: 10
+        height: 10
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 92_kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__42
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 130
+        width: 10
+        height: 10
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 92_kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__43
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 130
+        width: 10
+        height: 10
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 92_kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__44
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 130
+        width: 10
+        height: 10
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 92_kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__45
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 130
+        width: 10
+        height: 10
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 92_kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__46
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 130
+        width: 10
+        height: 10
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 92_kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__47
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 130
+        width: 10
+        height: 10
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 92_kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 120
+        width: 10
+        height: 10
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 92_kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__49
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 120
+        width: 10
+        height: 10
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 92_kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__50
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 120
+        width: 10
+        height: 10
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 92_kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__51
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 120
+        width: 10
+        height: 10
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 92_kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__52
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 120
+        width: 10
+        height: 10
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 92_kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__53
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 120
+        width: 10
+        height: 10
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 92_kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__54
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 120
+        width: 10
+        height: 10
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 92_kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__55
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 120
+        width: 10
+        height: 10
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 92_kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__kabam.rotmg.assets.EmbeddedAssets_textile10x10Embed__56
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 120
+        width: 10
+        height: 10
+      alignment: 1
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
