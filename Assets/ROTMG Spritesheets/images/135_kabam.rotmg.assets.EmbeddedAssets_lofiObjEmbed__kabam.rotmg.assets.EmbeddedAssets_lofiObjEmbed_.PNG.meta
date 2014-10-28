@@ -3,6 +3,260 @@ guid: bcc8ca70d8ccb774d9efe5a63ac97ca8
 TextureImporter:
   fileIDToRecycleName:
     21300000: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed_
+    21300002: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__0
+    21300004: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__1
+    21300006: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__2
+    21300008: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__3
+    21300010: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__4
+    21300012: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__5
+    21300014: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__6
+    21300016: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__7
+    21300018: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__8
+    21300020: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__9
+    21300022: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__10
+    21300024: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__11
+    21300026: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__12
+    21300028: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__13
+    21300030: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__14
+    21300032: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__15
+    21300034: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__16
+    21300036: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__17
+    21300038: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__18
+    21300040: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__19
+    21300042: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__20
+    21300044: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__21
+    21300046: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__22
+    21300048: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__23
+    21300050: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__24
+    21300052: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__25
+    21300054: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__26
+    21300056: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__27
+    21300058: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__28
+    21300060: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__29
+    21300062: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__30
+    21300064: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__31
+    21300066: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__32
+    21300068: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__33
+    21300070: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__34
+    21300072: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__35
+    21300074: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__36
+    21300076: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__37
+    21300078: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__38
+    21300080: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__39
+    21300082: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__40
+    21300084: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__41
+    21300086: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__42
+    21300088: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__43
+    21300090: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__44
+    21300092: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__45
+    21300094: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__46
+    21300096: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__47
+    21300098: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__48
+    21300100: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__49
+    21300102: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__50
+    21300104: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__51
+    21300106: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__52
+    21300108: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__53
+    21300110: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__54
+    21300112: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__55
+    21300114: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__56
+    21300116: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__57
+    21300118: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__58
+    21300120: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__59
+    21300122: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__60
+    21300124: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__61
+    21300126: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__62
+    21300128: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__63
+    21300130: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__64
+    21300132: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__65
+    21300134: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__66
+    21300136: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__67
+    21300138: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__68
+    21300140: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__69
+    21300142: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__70
+    21300144: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__71
+    21300146: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__72
+    21300148: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__73
+    21300150: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__74
+    21300152: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__75
+    21300154: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__76
+    21300156: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__77
+    21300158: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__78
+    21300160: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__79
+    21300162: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__80
+    21300164: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__81
+    21300166: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__82
+    21300168: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__83
+    21300170: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__84
+    21300172: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__85
+    21300174: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__86
+    21300176: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__87
+    21300178: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__88
+    21300180: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__89
+    21300182: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__90
+    21300184: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__91
+    21300186: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__92
+    21300188: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__93
+    21300190: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__94
+    21300192: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__95
+    21300194: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__96
+    21300196: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__97
+    21300198: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__98
+    21300200: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__99
+    21300202: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__100
+    21300204: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__101
+    21300206: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__102
+    21300208: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__103
+    21300210: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__104
+    21300212: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__105
+    21300214: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__106
+    21300216: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__107
+    21300218: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__108
+    21300220: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__109
+    21300222: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__110
+    21300224: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__111
+    21300226: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__112
+    21300228: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__113
+    21300230: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__114
+    21300232: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__115
+    21300234: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__116
+    21300236: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__117
+    21300238: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__118
+    21300240: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__119
+    21300242: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__120
+    21300244: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__121
+    21300246: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__122
+    21300248: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__123
+    21300250: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__124
+    21300252: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__125
+    21300254: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__126
+    21300256: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__127
+    21300258: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__128
+    21300260: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__129
+    21300262: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__130
+    21300264: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__131
+    21300266: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__132
+    21300268: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__133
+    21300270: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__134
+    21300272: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__135
+    21300274: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__136
+    21300276: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__137
+    21300278: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__138
+    21300280: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__139
+    21300282: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__140
+    21300284: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__141
+    21300286: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__142
+    21300288: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__143
+    21300290: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__144
+    21300292: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__145
+    21300294: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__146
+    21300296: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__147
+    21300298: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__148
+    21300300: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__149
+    21300302: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__150
+    21300304: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__151
+    21300306: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__152
+    21300308: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__153
+    21300310: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__154
+    21300312: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__155
+    21300314: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__156
+    21300316: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__157
+    21300318: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__158
+    21300320: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__159
+    21300322: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__160
+    21300324: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__161
+    21300326: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__162
+    21300328: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__163
+    21300330: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__164
+    21300332: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__165
+    21300334: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__166
+    21300336: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__167
+    21300338: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__168
+    21300340: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__169
+    21300342: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__170
+    21300344: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__171
+    21300346: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__172
+    21300348: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__173
+    21300350: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__174
+    21300352: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__175
+    21300354: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__176
+    21300356: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__177
+    21300358: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__178
+    21300360: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__179
+    21300362: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__180
+    21300364: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__181
+    21300366: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__182
+    21300368: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__183
+    21300370: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__184
+    21300372: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__185
+    21300374: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__186
+    21300376: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__187
+    21300378: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__188
+    21300380: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__189
+    21300382: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__190
+    21300384: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__191
+    21300386: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__192
+    21300388: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__193
+    21300390: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__194
+    21300392: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__195
+    21300394: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__196
+    21300396: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__197
+    21300398: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__198
+    21300400: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__199
+    21300402: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__200
+    21300404: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__201
+    21300406: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__202
+    21300408: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__203
+    21300410: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__204
+    21300412: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__205
+    21300414: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__206
+    21300416: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__207
+    21300418: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__208
+    21300420: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__209
+    21300422: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__210
+    21300424: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__211
+    21300426: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__212
+    21300428: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__213
+    21300430: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__214
+    21300432: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__215
+    21300434: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__216
+    21300436: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__217
+    21300438: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__218
+    21300440: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__219
+    21300442: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__220
+    21300444: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__221
+    21300446: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__222
+    21300448: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__223
+    21300450: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__224
+    21300452: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__225
+    21300454: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__226
+    21300456: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__227
+    21300458: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__228
+    21300460: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__229
+    21300462: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__230
+    21300464: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__231
+    21300466: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__232
+    21300468: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__233
+    21300470: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__234
+    21300472: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__235
+    21300474: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__236
+    21300476: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__237
+    21300478: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__238
+    21300480: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__239
+    21300482: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__240
+    21300484: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__241
+    21300486: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__242
+    21300488: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__243
+    21300490: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__244
+    21300492: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__245
+    21300494: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__246
+    21300496: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__247
+    21300498: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__248
+    21300500: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__249
+    21300502: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__250
+    21300504: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__251
+    21300506: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__252
+    21300508: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__253
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -26,13 +280,13 @@ TextureImporter:
   maxTextureSize: 1024
   textureSettings:
     filterMode: -1
-    aniso: -1
+    aniso: 1
     mipBias: -1
-    wrapMode: -1
+    wrapMode: 1
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -43,6 +297,2546 @@ TextureImporter:
   textureType: 8
   buildTargetSettings: []
   spriteSheet:
-    sprites: []
+    sprites:
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 120
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 120
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 120
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 120
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 120
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 120
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 120
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 120
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 120
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__9
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 120
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__10
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 120
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__11
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 120
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__12
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 120
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__13
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 120
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__14
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 120
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__15
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 120
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__17
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 112
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__18
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 112
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__19
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 112
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__20
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 112
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__21
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 112
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__22
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 112
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__23
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 112
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__24
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 112
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__25
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 112
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__26
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 112
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__27
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 112
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__28
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 112
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__29
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 112
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__30
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 112
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__31
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 112
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__33
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__34
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__35
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__36
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__37
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__38
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__39
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__40
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__41
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__42
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__43
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__44
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__45
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__46
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__47
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__49
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 96
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__50
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 96
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__51
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 96
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__52
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__53
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 96
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__54
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__55
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 96
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__56
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__57
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 96
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__58
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 96
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__59
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 96
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__60
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__61
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 96
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__62
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 96
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__63
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 96
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__65
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__66
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__67
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__68
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__69
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__70
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__71
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__72
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__73
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__74
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__75
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__76
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__77
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__78
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__79
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__81
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__82
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__83
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__84
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__85
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__86
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__87
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__88
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__89
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__90
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__91
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__92
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__93
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__94
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__95
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__97
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__98
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__99
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__100
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__101
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__102
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__103
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__104
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__105
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__106
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__107
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__108
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__109
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__110
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__111
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__113
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__114
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__115
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__116
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__117
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__118
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__119
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__120
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__121
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__122
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__123
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__124
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__125
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__126
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__127
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__128
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__129
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__130
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__131
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__132
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__133
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__134
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__135
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__136
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__137
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__138
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__139
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__140
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__141
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__142
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__143
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__144
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__145
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__146
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__147
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__148
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__149
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__150
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__151
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__152
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__153
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__154
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__155
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__156
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__157
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__158
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__159
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__160
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__161
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__162
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__163
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__164
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__165
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__166
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__167
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__168
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__169
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__170
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__171
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__172
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__173
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__174
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__175
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__176
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__177
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__178
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__179
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__180
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__181
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__182
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__183
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__184
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__185
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__186
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__187
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__188
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__189
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__190
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__191
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__192
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__193
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__194
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__195
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__196
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__197
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__198
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__199
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__200
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__201
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__202
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__203
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__204
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__205
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__206
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__207
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__208
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__209
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__210
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__211
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__212
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__213
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__214
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__215
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__216
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__217
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__218
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__219
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__220
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__221
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__222
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__223
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__224
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__225
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__226
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__227
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__228
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__229
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__230
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__231
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__232
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__233
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__234
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__235
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__236
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__237
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__238
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__239
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__240
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__241
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__242
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__243
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__244
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__245
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__246
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__247
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__248
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__249
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__250
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__251
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__252
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 135_kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__kabam.rotmg.assets.EmbeddedAssets_lofiObjEmbed__253
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 112
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
   spritePackingTag: 
   userData: 
